@@ -1,13 +1,12 @@
 {
-  "name": "isaax-ci-script",
-  "version": "0.0.0",
-  "description": "isaax-agent test script",
-  "main": "main.py",
-  "author": "nc30",
-  "license": "GPL",
-  "language":"python",
+  "name": "python-APP",
+  "version": "0.1",
+  "description": "python - raspberry-pi",
+  "main": "IoT.py",
+  "author": "",
+  "license": "",
+  "language":"python3",
   "scripts": {
-     "start": "python3 -u IoT.py"
-    },
-   "dependency": null
+     "start": "python3 IoT.py"
+  }
 }
