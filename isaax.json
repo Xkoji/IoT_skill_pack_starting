@@ -4,8 +4,8 @@
   "description": "python - raspberry-pi",
   "main": "IoT.py",
   "author": "",
-  "license": "",
   "language":"python3",
+  "license": "",
   "scripts": {
      "start": "python3 IoT.py"
   }
