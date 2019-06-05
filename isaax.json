@@ -8,5 +8,5 @@
   "license": "",
   "scripts": {
      "start": "python3 IoT.py"
-  }
+    }
 }
