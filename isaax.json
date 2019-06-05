@@ -1,12 +1,1 @@
-{
-  "name": "python-APP",
-  "version": "0.1",
-  "description": "python - raspberry-pi",
-  "main": "IoT.py",
-  "author": "",
-  "language":"python3",
-  "license": "",
-  "scripts": {
-     "start": "python3 IoT.py"
-    }
-}
+{"name": "python-APP","version": "0.1","description": "python - raspberry-pi","main": "IoT.py","author": "","language":"python3","license": "","scripts": {"start": "python3 IoT.py"}}
