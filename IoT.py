@@ -1,5 +1,4 @@
 # -*- Coding: utf-8 -*-
-
 import os
 import subprocess
 import datetime
@@ -10,7 +9,6 @@ def main():
     print(dt_now.strftime('%Y/%m/%d %H:%M:%S') + "IoT Device Online")
     print(os.environ.get('LANG'))
     #print(os.environ.get('RemoteENV'))
-
 
 if __name__ == '__main__':
     while True:
