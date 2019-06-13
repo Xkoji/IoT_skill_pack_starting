@@ -3,7 +3,7 @@
   "version": "0.1",
   "description": "python - raspberry-pi",
   "main": "IoT.py",
-  "author": "",
+  "author": "Xkoji",
   "language":"python3",
   "license": "",
   "scripts": {
